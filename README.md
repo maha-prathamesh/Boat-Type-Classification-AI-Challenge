@@ -10,7 +10,7 @@ Classes: <br>
 4) cruise_ship 
 5) kayak 
 6) inflatable_boat 
-7)paper_boat 
+7) paper_boat 
 8) buoy 
 9) freight_boat
 
@@ -18,3 +18,4 @@ Dataset Link:<br>
 https://dockship.io/challenges/5ffc13382e6d744ab77c970a/boat-type-classification-ai-challenge/overview
 
 Notebook : 
+https://github.com/maha-prathamesh/Boat-Type-Classification-AI-Challenge/blob/main/BOAT_Image_Clasification.ipynb
